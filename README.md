@@ -16,6 +16,7 @@ Website: saucedemo.com
 ## Test Case Files
 All test cases documented in Excel with:
 - Test Case ID
+- Test Case Description
 - Pre-Condition
 - Post-Condition
 - Actual Outcome
